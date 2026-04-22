@@ -1,19 +1,26 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohamed%20Ayman&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Django%20%7C%20React%20%7C%20Python%20%7C%20Java&descSize=18&descAlignY=68&descColor=ffffff)
+
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%20there%2C%20I'm%20Mohamed%20Ayman%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20Django%20%7C%20React%20%7C%20Python%20%7C%20Java&descAlignY=65&descColor=a9b4d4&descSize=16" />
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=650&lines=🚀+Building+Full+Stack+Web+Applications;🐍+Django+%2B+Python+Backend+Expert;⚛️+React+%26+Frontend+Craftsman;☕+Java+Developer;🟢+Open+to+Work+—+Let's+build+something+great!)](https://github.com/MohamedAymn220)
 
 <br/>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Django+%2B+React+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+products+one+commit+at+a+time;Open+to+Work+%F0%9F%9F%A2+Let's+build+something+great!)](https://github.com/MohamedAymn220)
+<img src="https://komarev.com/ghpvc/?username=MohamedAymn220&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/badge/🟢 Open%20To%20Work-success?style=for-the-badge" />
 
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ```yaml
 name       : Mohamed Ayman
@@ -31,19 +38,21 @@ currently  : Building real-world projects & growing every day
 goal       : Write clean code. Ship fast. Never stop learning 🎯
 ```
 
+<br clear="right"/>
+
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-**Backend**
+**💻 Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frontend**
+**🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,7 +60,7 @@ goal       : Write clean code. Ship fast. Never stop learning 🎯
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Database & Tools**
+**🗄️ Database & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -68,12 +77,12 @@ goal       : Write clean code. Ship fast. Never stop learning 🎯
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedAymn220&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b4d4&rank_icon=github" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAymn220&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b4d4&dates=a9b4d4&sideNums=7aa2f7&currStreakNum=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedAymn220&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=ff6b6b&text_color=a9b4d4&rank_icon=github" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAymn220&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b4d4&dates=a9b4d4&sideNums=ff6b6b&currStreakNum=ffffff" />
 
 <br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAymn220&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b4d4" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAymn220&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b4d4" />
 
 </div>
 
@@ -82,7 +91,9 @@ goal       : Write clean code. Ship fast. Never stop learning 🎯
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAymn220&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&hide_border=true" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAymn220&bg_color=0d1117&color=ff6b6b&line=7aa2f7&point=ff9e64&area=true&hide_border=true)
+
 </div>
 
 ---
@@ -92,10 +103,10 @@ goal       : Write clean code. Ship fast. Never stop learning 🎯
 <div align="center">
 
 | Project | Description | Stack |
-|---|---|---|
-| [🏥 Teryaq Pharmacy](https://github.com/MohamedAymn220/Teryaq-Pharmacy-System) | Pharmacy management system — cart, orders & admin dashboard | `Python` `Django` `HTML` |
+|:---:|:---|:---:|
+| [🏥 Teryaq Pharmacy](https://github.com/MohamedAymn220/Teryaq-Pharmacy-System) | Pharmacy management — cart, orders & admin dashboard | `Python` `Django` `HTML` |
 | [📚 LearnUp](https://github.com/MohamedAymn220/learnup_project) | E-learning platform for online education | `HTML` `CSS` `JS` |
-| [💳 Credit Card UI](https://github.com/MohamedAymn220/Credit-Card-UI) | Interactive credit card UI with live updates & smooth animations | `JS` `CSS` |
+| [💳 Credit Card UI](https://github.com/MohamedAymn220/Credit-Card-UI) | Interactive credit card with live updates & animations | `JS` `CSS` |
 | [🌐 Portfolio](https://github.com/MohamedAymn220/Personal-Portfolio-Website) | Personal portfolio showcasing my work | `HTML` `CSS` |
 | [🔐 Login Page](https://github.com/MohamedAymn220/Login-page) | Clean modern authentication UI | `CSS` |
 
@@ -111,14 +122,14 @@ goal       : Write clean code. Ship fast. Never stop learning 🎯
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.ayman.abdelfatah.2025)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAymn220)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MohamedAymn220&style=flat-square&color=7aa2f7&label=profile+views" />
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling)
+
+**⭐ If you like what you see — drop a star!**
+
 </div>
